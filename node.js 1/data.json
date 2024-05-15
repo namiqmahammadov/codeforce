@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Muhammed Babazade",
+        "age": "20"
+        
+        },
+        {
+            "id": 2,
+            "name": "Emil Mirzayev",
+            "age": "20"
+            
+            }, {
+                "id": 3,
+                "name": "Mirseyid Mirseyidov",
+                "age": "20"
+                
+                },
+                {
+                    "id": 4,
+                    "name": " Namiq Mehemmedov",
+                    "age": "20"
+                    
+                    }
+       
+    
+    ]
